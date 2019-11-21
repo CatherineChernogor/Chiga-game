@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-E:/AR-DEV/Chinga-Chguk-Result/Chinga-chguk-game-3d.exe
+E:/AR-DEV/Chinga-chguk-game/_RESULT/Chinga-chguk-game-3d.exe
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
